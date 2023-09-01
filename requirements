@@ -1,0 +1,7 @@
+Required modules are:
+
+face_recognition
+cv2
+numpy 
+csv 
+datetime
